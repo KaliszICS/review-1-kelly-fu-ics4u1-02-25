@@ -2,6 +2,7 @@ public class Review1 {
 
 	public static void q1() {
 		//Write question 1 code here
+		
 	}
 
 	public static void q2() {
