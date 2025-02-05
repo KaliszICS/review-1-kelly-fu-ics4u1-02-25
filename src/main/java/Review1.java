@@ -2,13 +2,19 @@ public class Review1 {
 
 	public static void q1() {
 		//Write question 1 code here
-		System.out.println(“There once was a man from St. Ives.”);
+		System.out.println("There once was a man from St. Ives.");
 	}
 
 	public static void q2() {
 		//Write question 2 code here
-		System.out.println(9/5);
-		System.out.println(9%5);
+		int a = 9;
+		int b = 5;
+
+		int quotient = a/b;
+		int remainder = a%b;
+		
+		System.out.println(quotient);
+		System.out.println(remainder);
 	}
 
 	public static void q3() {
